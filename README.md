@@ -86,6 +86,8 @@ The system orchestrates five AI co-founders and an auditor to build your bluepri
 3. Type in your startup idea, answer the 3 generated follow-up questions from the Incubator Director, and watch your AI co-founders build your blueprint in real time!
 
 ---
+<img width="1320" height="618" alt="agent2" src="https://github.com/user-attachments/assets/be1e271b-7539-485d-86c9-7cf2bba9ce4b" />
+<img width="1335" height="616" alt="agent1" src="https://github.com/user-attachments/assets/4941373f-cc46-4cac-b974-9846397b220e" />
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
