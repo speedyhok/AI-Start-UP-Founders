@@ -1,4 +1,4 @@
-# LaunchPad AI - AI Co-Founder Boardroom 🚀
+# LaunchPad AI - AI Co-Founder Boardroom 
 
 LaunchPad AI is an advanced, automated co-founder boardroom simulator that transforms a simple startup idea into an investor-grade business blueprint. Powered by **FastAPI** and the **Google Gemini API**, it runs a multi-agent system of specialized virtual co-founders who debate, research in real-time, stress-test, and synthesize your venture.
 
